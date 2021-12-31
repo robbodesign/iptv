@@ -11,3 +11,7 @@ http://cdn99.one:80/984854/6b4zmQ/72598.ts?checkedby:iptvcat.com
 http://168.205.87.198:8555/live/leila/123456/96.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlZAMVxA8j3ZlTz74-nzwoubABBIzbPvAo9jGWVdDTkdOHhY704RBRt4yNm5qnNAAzPHY&usqp=CAU" group-title="Brazil",RECORD NEWS
 http://168.205.87.198:8555/live/leila/123456/97.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="Brazil",SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="Brazil",SBT
+http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31075?checkedby:iptvcat.com
