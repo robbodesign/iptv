@@ -7,3 +7,7 @@ http://eztvlink.net:25461/DuQAWIS0vb/y8V9Lw0zo5/2443?checkedby:iptvcat.com
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJX1Ttv73RSwr1Q2L1ncl7XLsC65seCgV9gxIsQLr9fE/ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="Brazil",SBT SP HD
 http://cdn99.one:80/984854/6b4zmQ/72598.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil",RECORD MINAS
+http://168.205.87.198:8555/live/leila/123456/96.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil",RECORD NEWS
+http://168.205.87.198:8555/live/leila/123456/97.ts?checkedby:iptvcat.com
