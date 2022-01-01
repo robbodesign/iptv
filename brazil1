@@ -11,3 +11,35 @@ http://cdn99.one:80/984854/6b4zmQ/72598.ts?checkedby:iptvcat.com
 http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR_9Me5Me_UklPDVVv4yPBJE?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.pikpng.com/pngl/m/455-4558129_1-tvg-id-rtp1-sic-noticias-logo-png.png" group-title="Portugal",SIC NOTICIAS
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbHt-Z2_FJAYOW7LGbKcaE6HQ8DEervyvSr-reLAzSHIH/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Portugal",RTP 1
+http://iptv.csserv.co:8000/live/clientr725/631739/8779.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Portugal",RTP 1
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYRwpuFGF6Mna4SJuLzKMcrYg?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Portugal",RTP 1 HEVC
+http://sharkiptvpro.xyz:80/534661780/40007000/185864?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Portugal",RTP 1 UHD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPXUxG9HC-Cx1GAjS1WIOne8ruAqDtL8I9Sf2uGtQmCy/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Portugal",RTP 2
+http://iptv.csserv.co:8000/live/clientr725/631739/8778.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Portugal",RTP 2 HD (HI)
+http://103.194.169.171:8282/PT:RTP_2_hi/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Portugal",RTP 2 UHD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPM70DX72QRkr4JhpnUq4DJFTM5UHRSK8KY5tp0r0Hrj/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Portugal",RTP 3
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR_lhF2sJ5xjc5lfHIod5en4?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Portugal",RTP 3
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJHQ0zIFl2wyh3t5bU9x7PQUNMAnDLlvU_EMNn41emJH/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Portugal",RTP ACORES
+http://iptv.csserv.co:8000/live/clientr725/631739/2058.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Portugal",RTP Acores
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYRy0ph3bXgjOtg-SA_e27yvc?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Portugal",RTP AÇORES
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDjUodkmjnzgcSxiQTpj1Rs3y9fxq0GCXKccRUH2HaiT/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Portugal",RTP INTERNACIONAL (Backup)
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbH_AcJH7mf8HciS_J_kxJXAN2NxS9XQz5I0cDcoXx4pk/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Portugal",RTP MADEIRA
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbG8YPd4cItMup1GNXmPPf0N43BXPpLK8XemqF2Kf-uTy/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Portugal",RTP MADEIRA
+http://iptv.csserv.co:8000/live/clientr725/631739/2055.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Portugal",RTP Madeira
+http://103.194.169.171:8282/PT:RTP_MADEIRA_lo/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
