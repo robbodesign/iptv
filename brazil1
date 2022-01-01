@@ -11,7 +11,9 @@ http://cdn99.one:80/984854/6b4zmQ/72598.ts?checkedby:iptvcat.com
 http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR_9Me5Me_UklPDVVv4yPBJE?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.pikpng.com/pngl/m/455-4558129_1-tvg-id-rtp1-sic-noticias-logo-png.png" group-title="Portugal",SIC NOTICIAS
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbHt-Z2_FJAYOW7LGbKcaE6HQ8DEervyvSr-reLAzSHIH/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Portugal",RTP INTERNACIONAL
+#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Logo_RTP_Internacional.png" group-title="Portugal",RTP INTERNACIONAL
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbH_AcJH7mf8HciS_J_kxJXAN2NxS9XQz5I0cDcoXx4pk/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Portugal",RTP MADEIRA
+#EXTINF:0 tvg-country="PT" tvg-logo="https://www.neworganicplanet.eu/wp-content/uploads/2021/02/RTP-Madeira-em-direto-Online-1.png" group-title="Portugal",RTP MADEIRA
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbG8YPd4cItMup1GNXmPPf0N43BXPpLK8XemqF2Kf-uTy/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rtp3.png/1200px-Rtp3.png" group-title="Portugal",RTP 3
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR_lhF2sJ5xjc5lfHIod5en4?checkedby:iptvcat.com
