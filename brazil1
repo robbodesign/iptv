@@ -53,13 +53,10 @@ http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1/master.m3u8
 #EXTINF:-1 tvg-id="TVParanaTurismo.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3lxkJxb.png" group-title="Brazil",TV Paraná Turismo
 http://200.189.113.201/hls/tve.m3u8
-
 #EXTINF:-1 tvg-name="Canal 26" tvg-logo="https://i.imgur.com/xDjOUuz.png" group-title="Argentina",Canal 26
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="EuronewsPortugues.fr" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png" group-title="Portugal",Euronews Português
 https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 tvg-name="La 2" tvg-logo="https://i.imgur.com/DmuTwDw.png" group-title="Spain",La 2
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 #EXTINF:-1 tvg-name="Cuatro" tvg-logo="https://i.imgur.com/zROxNap.png" group-title="Spain",Cuatro
