@@ -59,20 +59,6 @@ https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EuronewsPortugues.fr" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png" group-title="Portugal",Euronews Português
 https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="Portugal",RTP 1
-http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/2077
-#EXTINF:-1 group-title="Portugal",RTP 2
-http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/2076
-#EXTINF:-1 group-title="Portugal",RTP 3
-http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/2075
-#EXTINF:-1 group-title="Portugal",RTP Acores
-http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/2074
-#EXTINF:-1 group-title="Portugal",RTP MADEIRA
-http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/2071
-#EXTINF:-1 group-title="Portugal",TV GLOBO PREMIUM
-http://5.189.187.55:8000/live/CLIENTW041/e09yJlVk46/1968.ts
-#EXTINF:-1 group-title="Portugal",SIC NOTICIAS
-http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/2064
 
 #EXTINF:-1 tvg-name="La 2" tvg-logo="https://i.imgur.com/DmuTwDw.png" group-title="Spain",La 2
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
