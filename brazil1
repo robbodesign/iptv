@@ -55,6 +55,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980
 http://200.189.113.201/hls/tve.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.pngfind.com/pngs/m/75-752264_globonews-logo-logodownload-org-download-de-logotipos-globonews.png" group-title="Brazil",Globo News
 http://dragoniptv.iptf.me:8080/nrwin/a4DWkrhWKzYU/36082?checkedby:iptvcat.com
+#EXTINF:0 tvg-country=BR" tvg-logo="https://www.tvarapuan.com.br/2021/images/site/logo.png" group-title="Brazil",TV Arapuan
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xDjOUuz.png" group-title="Argentina",Canal 26
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png" group-title="Portugal",Euronews Português
