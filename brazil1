@@ -61,6 +61,22 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980
 http://200.189.113.201/hls/tve.m3u8
 #EXTINF:0 tvg-country=BR" tvg-logo="https://www.tvarapuan.com.br/2021/images/site/logo.png" group-title="Brazil",TV Arapuan
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/playlist.m3u8
+#EXTINF:0 tvg-country=BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Band_Marca.png" group-title="Brazil",Band Nazare
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+#EXTINF:0 tvg-country=BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0b/Logotipo_da_RecordTV_Manaus.png" group-title="Brazil",RecordTV Manaus
+https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
+#EXTINF:0 tvg-country=BR" tvg-logo="https://photos.live-tv-channels.org/tv-logo/br-sic-tv-2695.jpg" group-title="Brazil",SICTV
+http://5953e7f9ae845.streamlock.net/2502/2502/playlist.m3u8
+#EXTINF:0 tvg-country=BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2c/LOGO_TV_BAIANA.png" group-title="Brazil",TV Baiana
+https://videodj.fm5.com.br:19360/tvbaiana/tvbaiana.m3u8
+#EXTINF:0 tvg-country=BR" tvg-logo="" group-title="Brazil",TV Capital
+https://stmv1.srvif.com/rbc/rbc/playlist.m3u8
+#EXTINF:0 tvg-country=BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/29/Logotipo_da_Rede_Cidade_Verde.png" group-title="Brazil",TV Cidade Verde
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+#EXTINF:0 tvg-country=BR" tvg-logo="https://tvjornal.ne10.uol.com.br/dist/assets/images/logo/logo-tvjornal.svg" group-title="Brazil",TV Jornal
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+#EXTINF:0 tvg-country=BR" tvg-logo="https://comotrabalhar.org/wp-content/uploads/2017/03/TV-Serra-Dourada-empregos.png" group-title="Brazil",TV Serra Dourada
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xDjOUuz.png" group-title="Argentina",Canal 26
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png" group-title="Portugal",Euronews Português
