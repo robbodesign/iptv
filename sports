@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",RDS 2 CA-FR
-http://ptv.is:2095/t9m28tPG/j4PdbhNF/28056?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",RDS CA-FR
-http://ptv.is:2095/t9m28tPG/j4PdbhNF/28088?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TSN 1 HD
 http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71576.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TSN 1 HD CA
@@ -77,13 +73,17 @@ http://new-pro.tv:8080/khaled398/K8GZlvu5gB/69385?checkedby:iptvcat.com
 http://new-pro.tv:8080/khaled398/K8GZlvu5gB/69388?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Sportsnet West HD
 http://new-pro.tv:8080/khaled398/K8GZlvu5gB/69392?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",CA RDS (FR)
-http://ky-iptv.com:80/testtest/testtest/182052.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",CA RDS (HD)
-http://ky-iptv.com:80/testtest/testtest/182053.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",CA RDS 2 (FR)
-http://ky-iptv.com:80/testtest/testtest/182056.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",RDS INFO (FR)
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",RDS Info
 http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/196150?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",RDS INFO (FR)
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",RDS Info
 http://new-pro.tv:8080/khaled398/K8GZlvu5gB/109700?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",RDS
+http://mhiptv.com:8080/hamdi/hamdi2020/15158?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",RDS (FR)
+http://new-pro.tv:8080/khaled398/K8GZlvu5gB/109698?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",RDS 2
+http://mhiptv.com:8080/hamdi/hamdi2020/15159?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",RDS 2 (FR)
+http://s1.ix.tc:81/rickdizzle937/gP5Pr5tAsK/196151?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",RDS 2 (FR)
+http://new-pro.tv:8080/khaled398/K8GZlvu5gB/109699?checkedby:iptvcat.com
