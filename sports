@@ -45,3 +45,15 @@ http://190.115.29.22:8080/carter/GUV1bMq2VK/3046?checkedby:iptvcat.com
 http://190.115.29.22:8080/carter/GUV1bMq2VK/3047?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/tsn-ca.png" group-title="Sport",The Sports Network (TSN5) (720p)
 http://encodercdn1.frontline.ca/kamino/output/TSN5_720p/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",CA SPORTSNET 360
+http://ky-iptv.com:80/testtest/testtest/182076.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",CA SPORTSNET EAST
+http://ky-iptv.com:80/testtest/testtest/182077.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",CA SPORTSNET ONE
+http://ky-iptv.com:80/testtest/testtest/182078.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",CA SPORTSNET ONTARIO
+http://ky-iptv.com:80/testtest/testtest/182079.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET 360
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/22207?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET 360
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3227?checkedby:iptvcat.com
