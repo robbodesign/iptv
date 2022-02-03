@@ -41,11 +41,47 @@ http://190.115.29.22:8080/carter/GUV1bMq2VK/3046?checkedby:iptvcat.com
 http://190.115.29.22:8080/carter/GUV1bMq2VK/3047?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/tsn-ca.png" group-title="Sport",The Sports Network (TSN5) (720p)
 http://encodercdn1.frontline.ca/kamino/output/TSN5_720p/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,SPORTSNET 360 HD
+#EXTINF:-1 group-title="Sport",SPORTSNET 360 HD
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/549
-#EXTINF:-1,SPORTSNET ONE HD
+#EXTINF:-1 group-title="Sport",SPORTSNET ONE HD
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/548
-#EXTINF:-1,SPORTSNET WEST HD
+#EXTINF:-1 group-title="Sport",SPORTSNET WEST HD
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/547
-#EXTINF:-1,SPORTSNET WORLD HD
+#EXTINF:-1 group-title="Sport",SPORTSNET WORLD HD
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/546
+#EXTINF:-1 group-title="Sport",|CA| SPORTNET ONE
+http://185.23.213.162:8789/live/ania/ania/40747.m3u8
+#EXTINF:-1 group-title="Sport",|CA| SPORTNET ONTARIO
+http://185.23.213.162:8789/live/ania/ania/40748.m3u8
+#EXTINF:-1 group-title="Sport",|CA| SPORTS NET EAST HD
+http://185.23.213.162:8789/live/ania/ania/40749.m3u8
+#EXTINF:-1 group-title="Sport",|CA| SPORTS NET ONE HD
+http://185.23.213.162:8789/live/ania/ania/40750.m3u8
+#EXTINF:-1 group-title="Sport",|CA| SPORTS NET ONTARIO HD
+http://185.23.213.162:8789/live/ania/ania/40751.m3u8
+#EXTINF:-1 group-title="Sport",|CA| SPORTS NET PACIFIC HD
+http://185.23.213.162:8789/live/ania/ania/40752.m3u8
+#EXTINF:-1 group-title="Sport",|CA| SPORTS NET WORLD HD
+http://185.23.213.162:8789/live/ania/ania/40753.m3u8
+#EXTINF:-1 group-title="Sport",|CA| SPORTSMAN CHANNEL CANADA
+http://185.23.213.162:8789/live/ania/ania/40754.m3u8
+#EXTINF:-1 group-title="Sport",|CA| SPORTSNET 360
+http://185.23.213.162:8789/live/ania/ania/40755.m3u8
+#EXTINF:-1 group-title="Sport",|CA| SPORTSNET 360 HD
+http://185.23.213.162:8789/live/ania/ania/40756.m3u8
+#EXTINF:-1 group-title="Sport",|CA| SPORTSNET EAST
+http://185.23.213.162:8789/live/ania/ania/40757.m3u8
+#EXTINF:-1 group-title="Sport",|CA| SPORTSNET EAST HD
+http://185.23.213.162:8789/live/ania/ania/40758.m3u8
+#EXTINF:-1 group-title="Sport",|CA| SPORTSNET ONE
+http://185.23.213.162:8789/live/ania/ania/40759.m3u8
+#EXTINF:-1 group-title="Sport",|CA| SPORTSNET ONTARIO
+http://185.23.213.162:8789/live/ania/ania/40761.m3u8
+#EXTINF:-1 group-title="Sport",|CA| SPORTSNET PACIFIC
+http://185.23.213.162:8789/live/ania/ania/40762.m3u8
+#EXTINF:-1 group-title="Sport",|CA| SPORTSNET PACIFIC HD
+http://185.23.213.162:8789/live/ania/ania/40763.m3u8
+#EXTINF:-1 group-title="Sport",|CA| SPORTSNET WEST
+http://185.23.213.162:8789/live/ania/ania/40764.m3u8
+#EXTINF:-1 group-title="Sport",|CA| SPORTSNET WORLD
+http://185.23.213.162:8789/live/ania/ania/40765.m3u8
