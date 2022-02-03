@@ -41,11 +41,11 @@ http://190.115.29.22:8080/carter/GUV1bMq2VK/3046?checkedby:iptvcat.com
 http://190.115.29.22:8080/carter/GUV1bMq2VK/3047?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/tsn-ca.png" group-title="Sport",The Sports Network (TSN5) (720p)
 http://encodercdn1.frontline.ca/kamino/output/TSN5_720p/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,SportsNet One HD
+#EXTINF:-1 group-title="Sport",SportsNet One HD
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/2065.ts
-#EXTINF:-1,SportsNet Ontario
+#EXTINF:-1 group-title="Sport",SportsNet Ontario
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/2064.ts
-#EXTINF:-1,SportsNet World HD
+#EXTINF:-1 group-title="Sport",SportsNet World HD
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/2063.ts
-#EXTINF:-1,SportsNet 360
+#EXTINF:-1 group-title="Sport",SportsNet 360
 http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/2066.ts
