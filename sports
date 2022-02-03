@@ -41,57 +41,17 @@ http://190.115.29.22:8080/carter/GUV1bMq2VK/3046?checkedby:iptvcat.com
 http://190.115.29.22:8080/carter/GUV1bMq2VK/3047?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/tsn-ca.png" group-title="Sport",The Sports Network (TSN5) (720p)
 http://encodercdn1.frontline.ca/kamino/output/TSN5_720p/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",CA SPORTSNET 360
-http://ky-iptv.com:80/testtest/testtest/182076.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",CA SPORTSNET EAST
-http://ky-iptv.com:80/testtest/testtest/182077.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",CA SPORTSNET ONE
-http://ky-iptv.com:80/testtest/testtest/182078.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",CA SPORTSNET ONTARIO
-http://ky-iptv.com:80/testtest/testtest/182079.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",CA SPORTSNET_PPV
-http://ky-iptv.com:80/testtest/testtest/182083.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",CA SportsNet
-http://ky-iptv.com:80/testtest/testtest/228639.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",CA SportsNet East HD
-http://ky-iptv.com:80/testtest/testtest/228641.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",CA SportsNet NY
-http://ky-iptv.com:80/testtest/testtest/228642.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",CA SportsNet Pacific FHD
-http://ky-iptv.com:80/testtest/testtest/228645.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",CA SportsNet West FHD
-http://ky-iptv.com:80/testtest/testtest/228647.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",CA SportsNet West HD
-http://ky-iptv.com:80/testtest/testtest/228636.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",CA Sportsnet Event 1 HD
-http://ky-iptv.com:80/testtest/testtest/1699315.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",CA Sportsnet Event 2 HD
-http://ky-iptv.com:80/testtest/testtest/1699317.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",CA Sportsnet Event 3 HD
-http://ky-iptv.com:80/testtest/testtest/1699319.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",CA Sportsnet Event 4 HD
-http://ky-iptv.com:80/testtest/testtest/1699321.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",CA Sportsnet Event 5 HD
-http://ky-iptv.com:80/testtest/testtest/1699323.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",CA Sportsnet Event 6 HD
-http://ky-iptv.com:80/testtest/testtest/1699325.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",CA Sportsnet Event 7 HD
-http://ky-iptv.com:80/testtest/testtest/1699327.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",CA Sportsnet Event 8 HD
-http://ky-iptv.com:80/testtest/testtest/1699329.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",CA Sportsnet World HD
-http://ky-iptv.com:80/testtest/testtest/182080.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET 360
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3227?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET EAST
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3226?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET ONE
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3225?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET ONTARIO
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3224?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET PACIFIC
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3223?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET WEST
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3222?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET WORLD
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3221?checkedby:iptvcat.com
+#EXTINF:-1,CA : SPORTSNET 360 HD
+http://tv2iptv.com:8000/Faysal/faysal123/37794
+#EXTINF:-1,CA : SPORTSNET EAST HD
+http://tv2iptv.com:8000/Faysal/faysal123/37793
+#EXTINF:-1,CA : SPORTSNET ONE HD
+http://tv2iptv.com:8000/Faysal/faysal123/37792
+#EXTINF:-1,CA : SPORTSNET ONTARIO HD
+http://tv2iptv.com:8000/Faysal/faysal123/37791
+#EXTINF:-1,CA : SPORTSNET PACIFIC HD
+http://tv2iptv.com:8000/Faysal/faysal123/37790
+#EXTINF:-1,CA : Sportsnet West HD
+http://tv2iptv.com:8000/Faysal/faysal123/21486
+#EXTINF:-1,CA : SPORTSNET WORLD HD
+http://tv2iptv.com:8000/Faysal/faysal123/37789
