@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sports",TSN 1
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TSN 1
 http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFLzFIkHLhP4iZijHw5RurQE?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TSN 1
 http://mains.services:2086/kixy2030/u8zC9nvB69/3202?checkedby:iptvcat.com
@@ -13,3 +13,13 @@ http://mains.services:2086/kixy2030/u8zC9nvB69/3199?checkedby:iptvcat.com
 http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFEGq_jTvyzEctbiRd_-y_Xo?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TSN 5
 http://mains.services:2086/kixy2030/u8zC9nvB69/3198?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS F1
+http://mains.services:2086/kixy2030/u8zC9nvB69/67056?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS F1 FHD
+http://smartsw.xyz:8080/tom/tom123/96162?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS F1 FHD
+http://120322.1222908.net:2086/9CdGgD6vni/lFybJms788/3238131?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS F1 HD
+http://smartsw.xyz:8080/tom/tom123/94140?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS F1 SD
+http://smartsw.xyz:8080/tom/tom123/95679?checkedby:iptvcat.com
