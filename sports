@@ -1,87 +1,13 @@
 #EXTM3U
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TSN 1 HD
-http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71576.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TSN 1 HD CA
-http://ptv.is:2095/t9m28tPG/j4PdbhNF/10921?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TSN 2
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3201?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TSN 2 FHD CA
-http://ptv.is:2095/t9m28tPG/j4PdbhNF/10920?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TSN 1
+http://mains.services:2086/kixy2030/u8zC9nvB69/3202?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TSN 2 HD
-http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71578.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TSN 2 HD CA
-http://ptv.is:2095/t9m28tPG/j4PdbhNF/10919?checkedby:iptvcat.com
+http://smartsw.xyz:8080/tom/tom123/736086?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TSN 3
-http://compitv.info:8080/Ulises45/gH8ZpaSLqx/78483?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TSN 3
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/8802?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TSN 3 FHD
-http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71579.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TSN 3 FHD CA
-http://ptv.is:2095/t9m28tPG/j4PdbhNF/10918?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TSN 3 HD CA
-http://ptv.is:2095/t9m28tPG/j4PdbhNF/10917?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="UndefSportined",TSN 4
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3199?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TSN 4 FHD
-http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71581.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TSN 4 FHD CA
-http://ptv.is:2095/t9m28tPG/j4PdbhNF/10916?checkedby:iptvcat.com
+http://mains.services:2086/kixy2030/u8zC9nvB69/8802?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TSN 4
+http://mains.services:2086/kixy2030/u8zC9nvB69/3199?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TSN 4 (FHD)
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFEGq_jTvyzEctbiRd_-y_Xo?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TSN 5
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3198?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TSN 5 FHD CA
-http://ptv.is:2095/t9m28tPG/j4PdbhNF/10915?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TSN 5 HD
-http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71582.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TSN 5 HD CA
-http://ptv.is:2095/t9m28tPG/j4PdbhNF/10914?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TSN Sport 1
-http://190.115.29.22:8080/carter/GUV1bMq2VK/3046?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TSN Sport 2
-http://190.115.29.22:8080/carter/GUV1bMq2VK/3047?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/tsn-ca.png" group-title="Sport",The Sports Network (TSN5) (720p)
-http://encodercdn1.frontline.ca/kamino/output/TSN5_720p/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Sport",SPORTSNET 360 HD
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/549
-#EXTINF:-1 group-title="Sport",SPORTSNET ONE HD
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/548
-#EXTINF:-1 group-title="Sport",SPORTSNET WEST HD
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/547
-#EXTINF:-1 group-title="Sport",SPORTSNET WORLD HD
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/546
-#EXTINF:-1 group-title="Sport",|CA| SPORTNET ONE
-http://185.23.213.162:8789/live/ania/ania/40747.m3u8
-#EXTINF:-1 group-title="Sport",|CA| SPORTNET ONTARIO
-http://185.23.213.162:8789/live/ania/ania/40748.m3u8
-#EXTINF:-1 group-title="Sport",|CA| SPORTS NET EAST HD
-http://185.23.213.162:8789/live/ania/ania/40749.m3u8
-#EXTINF:-1 group-title="Sport",|CA| SPORTS NET ONE HD
-http://185.23.213.162:8789/live/ania/ania/40750.m3u8
-#EXTINF:-1 group-title="Sport",|CA| SPORTS NET ONTARIO HD
-http://185.23.213.162:8789/live/ania/ania/40751.m3u8
-#EXTINF:-1 group-title="Sport",|CA| SPORTS NET PACIFIC HD
-http://185.23.213.162:8789/live/ania/ania/40752.m3u8
-#EXTINF:-1 group-title="Sport",|CA| SPORTS NET WORLD HD
-http://185.23.213.162:8789/live/ania/ania/40753.m3u8
-#EXTINF:-1 group-title="Sport",|CA| SPORTSMAN CHANNEL CANADA
-http://185.23.213.162:8789/live/ania/ania/40754.m3u8
-#EXTINF:-1 group-title="Sport",|CA| SPORTSNET 360
-http://185.23.213.162:8789/live/ania/ania/40755.m3u8
-#EXTINF:-1 group-title="Sport",|CA| SPORTSNET 360 HD
-http://185.23.213.162:8789/live/ania/ania/40756.m3u8
-#EXTINF:-1 group-title="Sport",|CA| SPORTSNET EAST
-http://185.23.213.162:8789/live/ania/ania/40757.m3u8
-#EXTINF:-1 group-title="Sport",|CA| SPORTSNET EAST HD
-http://185.23.213.162:8789/live/ania/ania/40758.m3u8
-#EXTINF:-1 group-title="Sport",|CA| SPORTSNET ONE
-http://185.23.213.162:8789/live/ania/ania/40759.m3u8
-#EXTINF:-1 group-title="Sport",|CA| SPORTSNET ONTARIO
-http://185.23.213.162:8789/live/ania/ania/40761.m3u8
-#EXTINF:-1 group-title="Sport",|CA| SPORTSNET PACIFIC
-http://185.23.213.162:8789/live/ania/ania/40762.m3u8
-#EXTINF:-1 group-title="Sport",|CA| SPORTSNET PACIFIC HD
-http://185.23.213.162:8789/live/ania/ania/40763.m3u8
-#EXTINF:-1 group-title="Sport",|CA| SPORTSNET WEST
-http://185.23.213.162:8789/live/ania/ania/40764.m3u8
-#EXTINF:-1 group-title="Sport",|CA| SPORTSNET WORLD
-http://185.23.213.162:8789/live/ania/ania/40765.m3u8
+http://mains.services:2086/kixy2030/u8zC9nvB69/3198?checkedby:iptvcat.com
