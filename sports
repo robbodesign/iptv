@@ -1,25 +1,49 @@
 #EXTM3U
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",CA TSN 1 (E)
+http://fortv.cc:8080/alphonso/alphonso/57292?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",CA TSN 2 HD (B)
+http://fortv.cc:8080/alphonso/alphonso/47442?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",CA TSN 3 HD (B)
+http://fortv.cc:8080/alphonso/alphonso/47444?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",CA TSN 4 (E)
+http://fortv.cc:8080/alphonso/alphonso/66783?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",CA TSN 4 HD (B)
+http://fortv.cc:8080/alphonso/alphonso/16130?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",CA TSN 5 HD (B)
+http://fortv.cc:8080/alphonso/alphonso/57467?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TSN 1
 http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFLzFIkHLhP4iZijHw5RurQE?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TSN 1
-http://mains.services:2086/kixy2030/u8zC9nvB69/3202?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TSN 1 (FHD)
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFBzQ5Wvyyne2ibliII41X2o?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TSN 1 HD
+http://new-pro.tv:8080/Fernando/123321/69379?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TSN 1 HD
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/770?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TSN 1 HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SCs3j2MPwrfJPYQMsjyDG84/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TSN 2 (FHD)
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFPDTC7h4ZEp96ec03GHOlss?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TSN 2 HD
-http://smartsw.xyz:8080/tom/tom123/736086?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TSN 3
-http://mains.services:2086/kixy2030/u8zC9nvB69/8802?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TSN 4
-http://mains.services:2086/kixy2030/u8zC9nvB69/3199?checkedby:iptvcat.com
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SP-OQiLTOXQ4QgMA7ayn6-I/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TSN 2 HD
+http://new-pro.tv:8080/Fernando/123321/69380?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TSN 3 HD
+http://new-pro.tv:8080/Fernando/123321/69381?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TSN 3 HD
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/772?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TSN 3 HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SAMWZFG71mzYqaq5jfzcZZQ/ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TSN 4 (FHD)
 http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFEGq_jTvyzEctbiRd_-y_Xo?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TSN 5
-http://mains.services:2086/kixy2030/u8zC9nvB69/3198?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS F1
-http://mains.services:2086/kixy2030/u8zC9nvB69/67056?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS F1 FHD
-http://smartsw.xyz:8080/tom/tom123/96162?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS F1 FHD
-http://120322.1222908.net:2086/9CdGgD6vni/lFybJms788/3238131?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS F1 HD
-http://smartsw.xyz:8080/tom/tom123/94140?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS F1 SD
-http://smartsw.xyz:8080/tom/tom123/95679?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TSN 4 HD
+http://new-pro.tv:8080/Fernando/123321/69382?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TSN 4 HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMHDlzS-SFTs9S7grg6oQnI/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TSN 4 HD
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/773?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TSN 5 (FHD)
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFGxDfjvZjjoImRE3SJEijNQ?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TSN 5 HD
+http://new-pro.tv:8080/Fernando/123321/69383?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TSN 5 HD
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/774?checkedby:iptvcat.com
