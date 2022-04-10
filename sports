@@ -47,23 +47,13 @@ http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFGxDfjvZjjoImRE3SJEijNQ?c
 http://new-pro.tv:8080/Fernando/123321/69383?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TSN 5 HD
 http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/774?checkedby:iptvcat.com
-#EXTINF:-1,RDS2 HD
-http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1086.ts
-#EXTINF:-1,Astro SuperSport 1
-http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1031.ts
-#EXTINF:-1,Astro SuperSport 2
-http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1032.ts
-#EXTINF:-1,Astro SuperSport 3
-http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1033.ts
-#EXTINF:-1,Astro SuperSport 4
-http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1034.ts
-#EXTINF:-1,TSN 1
-http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1042.ts
-#EXTINF:-1,TSN 2
-http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1043.ts
-#EXTINF:-1,TSN 3
-http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1044.ts
-#EXTINF:-1,TSN 4
-http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1045.ts
-#EXTINF:-1,TSN 5
-http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1046.ts
+#EXTINF:-1 tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_1_aug2014.png" group-title="Canada", TSN 1 HD
+http://smart-hdip.com:6204/said/123/10636
+#EXTINF:-1  tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_2_aug2014.png" group-title="Canada", TSN 2 HD
+http://smart-hdip.com:6204/said/123/10635
+#EXTINF:-1  tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_3_aug2014.png" group-title="Canada", TSN 3 HD
+http://smart-hdip.com:6204/said/123/10634
+#EXTINF:-1  tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_4_aug2014.png" group-title="Canada", TSN 4 HD
+http://smart-hdip.com:6204/said/123/10633
+#EXTINF:-1  tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_5_aug2014.png" group-title="Canada", TSN 5 HD
+http://smart-hdip.com:6204/said/123/10632
