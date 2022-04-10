@@ -47,13 +47,19 @@ http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFGxDfjvZjjoImRE3SJEijNQ?c
 http://new-pro.tv:8080/Fernando/123321/69383?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TSN 5 HD
 http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/774?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_1_aug2014.png" group-title="Sport", TSN 1 HD
-http://smart-hdip.com:6204/said/123/10636
-#EXTINF:-1  tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_2_aug2014.png" group-title="Sport", TSN 2 HD
-http://smart-hdip.com:6204/said/123/10635
-#EXTINF:-1  tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_3_aug2014.png" group-title="Sport", TSN 3 HD
-http://smart-hdip.com:6204/said/123/10634
-#EXTINF:-1  tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_4_aug2014.png" group-title="Sport", TSN 4 HD
-http://smart-hdip.com:6204/said/123/10633
-#EXTINF:-1  tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_5_aug2014.png" group-title="Sport", TSN 5 HD
-http://smart-hdip.com:6204/said/123/10632
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS F1
+http://luxtv.one:8080/kadiri/123456/400?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports F1 FHD
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/265?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports F1 HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SKOYAP8Ooss_79JCq2inqso/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports Main Event FHD
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/283053?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports Main Event FHD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SKp8acESP4wXEf-M9YgodB0/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",UK FHD  Sky Sports F1 FHD
+http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/52914?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",UK Sky Sports F1 FHD (D)
+http://fortv.cc:8080/alphonso/alphonso/53704?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",UK Sky Sports F1 FHD (D)
+http://fortv.cc:8080/alphonso/alphonso/35244?checkedby:iptvcat.com
