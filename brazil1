@@ -71,6 +71,14 @@ https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
 #EXTINF:0 tvg-country=BR" tvg-logo="https://comotrabalhar.org/wp-content/uploads/2017/03/TV-Serra-Dourada-empregos.png" group-title="Brazil",TV Serra Dourada
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil",RECORD NEWS
+http://168.205.87.198:8555/live/1431/123456/97.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil",RECORD NEWS
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/46000?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil",RECORD RJ HD.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194262?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil",RECORD TV.
+http://piqui.vip:80/Antonioraisa0990/Asgf1245aa/194269?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xDjOUuz.png" group-title="Argentina",Canal 26
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png" group-title="Portugal",Euronews Português
