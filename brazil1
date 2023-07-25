@@ -57,12 +57,6 @@ http://2hubs.ddns.net:25461/BabNour/telegrramm/62052?checkedby:iptvcat.com
 http://2hubs.ddns.net:25461/BabNour/telegrramm/62053?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Portugal",PT - RTP 3
 http://2hubs.ddns.net:25461/BabNour/telegrramm/62055?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Portugal",RTP 1 PT
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rtp.1.pt.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Portugal",RTP 2 PT
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rtp.2.pt.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Portugal",RTP 3 PT
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rtp.3.pt.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Portugal",RTP International
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rtp.inter.pt.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.imgur.com/OigvUdJ.png" group-title="Portugal",SIC (1080p)
