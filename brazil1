@@ -45,7 +45,7 @@ https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.imgur.com/bc6tYVZ.png" group-title="Portugal",CNN Portugal
 https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Portugal",Globo Premium
+#EXTINF:0 tvg-country="PT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/2014_Globo_Premium.png/revision/latest/scale-to-width-down/250?cb=20141221050850" group-title="Portugal",Globo Premium
 http://2hubs.ddns.net:25461/BabNour/telegrramm/62026?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/SIC_Not%C3%ADcias_2021_dark.svg/revision/latest/scale-to-width-down/300?cb=20210104143544" group-title="Portugal",SIC Noticias
 http://2hubs.ddns.net:25461/BabNour/telegrramm/62066?checkedby:iptvcat.com
