@@ -41,9 +41,9 @@ https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://cdn.izap.com.br/recordminas.tv.br/uploads/noticias/cache/340-340-resize/2_logo_Record_Minas.jpg" group-title="Brazil",021. Record Minas
 http://168.205.87.198:8555/live/1431/123456/96.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/Record_News_logo_2016.svg" group-title="Brazil",022. Record News 1
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Record_News_logo_2022.svg/1200px-Record_News_logo_2022.svg.png" group-title="Brazil",022. Record News 1
 http://168.205.87.198:8555/live/michele/123456/97.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/Record_News_logo_2016.svg" group-title="Brazil",023. Record News 2
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Record_News_logo_2022.svg/1200px-Record_News_logo_2022.svg.png" group-title="Brazil",023. Record News 2
 http://168.205.87.198:8555/live/1431/123456/97.ts?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xDjOUuz.png" group-title="Argentina",Canal 26
