@@ -21,7 +21,7 @@ http://200.189.113.201/hls/tve.m3u8
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 #EXTINF:0 tvg-country=BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/29/Logotipo_da_Rede_Cidade_Verde.png" group-title="Brazil",011. TV Cidade Verde SBT
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
-#EXTINF:0 tvg-country=BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3f/Logotipo_TV_Jornal.jpg/200px-Logotipo_TV_Jornal.jpg" group-title="Brazil",012. TV Jornal SBT
+#EXTINF:0 tvg-country=BR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/20160529182101!Logotipo_TV_Jornal.jpg" group-title="Brazil",012. TV Jornal SBT
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Brazil",013. RecordTV
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8?checkedby:iptvcat.com
@@ -33,7 +33,6 @@ https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8?checkedby:
 https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/hPh8cxK.png" group-title="Brazil",017. TV Sul de Minas
 https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8?checkedby:iptvcat.com
-
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.imgur.com/OigvUdJ.png" group-title="Portugal",001. SIC 2
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8?checkedby:iptvcat.com
