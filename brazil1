@@ -33,61 +33,45 @@ https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8?checkedby:
 https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/q5U0d9k.png" group-title="Brazil",018. TV Vila Real
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/Cywnp02.png" group-title="Brazil",019. VN Brasil
-http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/XeqcwKe.png" group-title="Brazil",020. TVitapé
-https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil",021. Boas Novas
-https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/co7TCWC.png" group-title="Brazil",022. Canal 38
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/co7TCWC.png" group-title="Brazil",019. Canal 38
 https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/Md3xibE.png" group-title="Brazil",023. Demais TV
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/Md3xibE.png" group-title="Brazil",020. Demais TV
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil",024. DiaTV
-https://ythls-v2.onrender.com/channel/UCKnMcgDLxDeq9HqUgLhtYbQ.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/ZFN1R4B.png" group-title="Brazil",025. Rede NGT
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/ZFN1R4B.png" group-title="Brazil",021. Rede NGT
 https://isaocorp.cloudecast.com/ngt/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/Usw2e9d.png" group-title="Brazil",026. Rede UTV
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/Usw2e9d.png" group-title="Brazil",022. Rede UTV
 https://59f1cbe63db89.streamlock.net:1443/canalvirtual08/_definst_/canalvirtual08/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil",027. SBT Pará
-https://streaming.portaltvparaense.com.br/hls/rtp.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil",028. SESC TV
-https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/93a9920d-1b24-4c5e-a7d2-63d5489f59b5_index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/SeF2I7q.png" group-title="Brazil",029. STZ TV
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/SeF2I7q.png" group-title="Brazil",023. STZ TV
 https://cdn.jmvstream.com/w/AVJ-12952/playlist/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/KxYsq1d.png" group-title="Brazil",030. Santa Cecilia TV
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/KxYsq1d.png" group-title="Brazil",024. Santa Cecilia TV
 http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/b5xOCsC.png" group-title="Brazil",031.Sertão TV
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/b5xOCsC.png" group-title="Brazil",025.Sertão TV
 http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/rsfnv4Z.png" group-title="Brazil",032. TV Aldeia
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/rsfnv4Z.png" group-title="Brazil",026. TV Aldeia
 https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/JxsyXCD.png" group-title="Brazil",033. TV Beltrão
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/JxsyXCD.png" group-title="Brazil",027. TV Beltrão
 https://5cf4a2c2512a2.streamlock.net/tvbeltrao/tvbeltrao/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/1XrArrG.png" group-title="Brazil",034. TV Boqueirão
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/1XrArrG.png" group-title="Brazil",028. TV Boqueirão
 https://srv3.zcast.com.br/tvboqueirao/tvboqueirao/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/noqGfuy.png" group-title="Brazil",035. TV Brasil Oeste
-https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/tvcaravelas.png" group-title="Brazil",036. TV Caravelas
+#EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/tvcaravelas.png" group-title="Brazil",029. TV Caravelas
 https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil",037. TV Carioca
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil",030. TV Carioca
 https://stmv3.duvoxtv.com.br/tvcariocas/tvcariocas/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/CpXjcyE.png" group-title="Brazil",038. TV Clube
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/CpXjcyE.png" group-title="Brazil",031. TV Clube
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/wNULjux.png" group-title="Brazil",039. TV Cordeiro
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/wNULjux.png" group-title="Brazil",032. TV Cordeiro
 https://stmv2.voxtvhd.com.br/tvcordeiro/tvcordeiro/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/JdCKNZ4.png" group-title="Brazil",040. V Curuça
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/JdCKNZ4.png" group-title="Brazil",033. V Curuça
 https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-difusora-s-o-luis_m.png" group-title="Brazil",041. TV Difusora São Luis
-https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/1drg0E9.png" group-title="Brazil",042. TV Grao Pará
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/1drg0E9.png" group-title="Brazil",034. TV Grao Pará
 https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/dnmzIhF.png" group-title="Brazil",043. TV Japi
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/dnmzIhF.png" group-title="Brazil",035. TV Japi
 https://stmv1.paineltv.net/tvjapi/tvjapi/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/zZ9LEOZ.png" group-title="Brazil",044. TV Maceió
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/zZ9LEOZ.png" group-title="Brazil",036. TV Maceió
 https://srv5.zcast.com.br/paulo4100/paulo4100/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/lgCRX7q.png" group-title="Brazil",045. TV Mais Maricá
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/lgCRX7q.png" group-title="Brazil",037. TV Mais Maricá
 https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/9d9vBN7.png" group-title="Brazil",046. TV Marajoara
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/9d9vBN7.png" group-title="Brazil",038. TV Marajoara
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.imgur.com/OigvUdJ.png" group-title="Portugal",001. SIC 2
