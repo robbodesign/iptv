@@ -93,7 +93,8 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8?c
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Portugal",009. RTP Internacional (504p) [Not 24/7]
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Portugal",010. RTP Madeira (504p) [Not 24/7]
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/chunklist_b640000_slpt.m3u8?checkedby:iptvcat.com
+#EXTVLCOPT:http-user-agent=Firefox
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Portugal",011. RTP Memória (504p) [Not 24/7]
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Portugal",012. RTP África (504p) [Not 24/7]
