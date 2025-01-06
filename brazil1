@@ -77,10 +77,14 @@ https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8?checkedby:iptv
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="Brazil",040. Record News
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="Brazil",041. Record RS
+https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/PZMas8Y.png" group-title="Brazil",042. Record TV Belem
+https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/PZMas8Y.png" group-title="Brazil",042. Record TV Brasilia
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.imgur.com/OigvUdJ.png" group-title="Portugal",001. SIC 2
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="https://i.imgur.com/Gi6Q26M.png" group-title="Portugal",002. SIC Noticias
-https://sicnot.live.impresa.pt/sicnot.m3u8
-#EXTINF:0 tvg-country="PT" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png" group-title="Portugal",003. CNN Portugal
+#EXTINF:0 tvg-country="PT" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png" group-title="Portugal",002. CNN Portugal
 https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS82LzIwMjUgMjo1OjU0IFBNJmhhc2hfdmFsdWU9R0ZTNHRNZ2IwWExYWkZWU21EazRkQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTI5NWM0NmZhLWU3MTItNDRiOS1iMDhiLTdhZTkxMWZlODkyMA==/
