@@ -81,4 +81,5 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 #EXTINF:0 tvg-country="PT" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png" group-title="Portugal",002. CNN Portugal
 https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS82LzIwMjUgMjo1OjU0IFBNJmhhc2hfdmFsdWU9R0ZTNHRNZ2IwWExYWkZWU21EazRkQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTI5NWM0NmZhLWU3MTItNDRiOS1iMDhiLTdhZTkxMWZlODkyMA==/
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.imgur.com/nJNWTqA.png" group-title="Portugal",003. RTP Madeira
+user_agent "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0"
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/chunklist_b640000_slpt.m3u8
