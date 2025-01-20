@@ -70,4 +70,14 @@ https://video01.soultv.com.br/internacional/internacional/playlist.m3u8?checkedb
 https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/q5U0d9k.png" group-title="International",034. TV Vila Real
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="International",035. Canal 25 Jundiaí
+https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
+#EXTINF:-1 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Logo_de_cmt_2004-2006.png" group-title="International", 036. Canal Metropolitano de Noticias
+https://video01.logicahost.com.br/redebemtv/redebemtv/playlist.m3u8
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="International",037. ConecTV Brasil
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+#EXTINF:-1 tvg-country="BR" tvg-logo="https://www.tvbrusque.com.br/img/7bc729a9560f5e12acd7db7a9cb8fc80.png" group-title="International",038. TV Brusque
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
+#EXTINF:-1 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e1c1694671131c4b14e550af316a04bb.webp" group-title="International",039. TV Viçosa
+http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
 
