@@ -129,3 +129,6 @@ https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3
 #EXTM3U
 #EXTINF:0 group-title="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Le_Canal_Nouvelles_logo_2020.svg/1200px-Le_Canal_Nouvelles_logo_2020.svg.png" group-title="Undefined",001. LCN
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 group-title="Canada" tvg-logo="https://www.quebecor.com/documents/20143/67801/Logo+TVA.jpg/e6abf4e9-9e15-d9e1-dd76-56c575ddaf71?t=1607358198387",002. TVA
+https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8?checkedby:iptvcat.com
