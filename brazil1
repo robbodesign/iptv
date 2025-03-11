@@ -77,8 +77,7 @@ http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
 https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDI1IDEwOjY6OCBQTSZoYXNoX3ZhbHVlPWhndHJMZjEvTER3VjRFd0NXajdQT3c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1mNDljNDZiMS1kYzUyLTRhNjYtOTY2Yi01ZDFlMTI3NjJkY2I=/
 
 #EXTINF:-1 group-title="Portugal" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",002. Euronews PT
-#KODIPROP:inputstream=inputstream.adaptive
-https://euronews-live-por-pt.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6572/7392d4f0-7e24-4dbe-8482-f165e712eeed/5.m3u8
+#https://youtu.be/XuZAl-ZPEcA
 
 #EXTINF:-1 group-title="Portugal" tvg-id="SIC.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png",003. SIC
 #KODIPROP:inputstream=inputstream.adaptive
