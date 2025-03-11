@@ -133,5 +133,5 @@ https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8?checkedby:iptv
 #EXTINF:0 group-title="Canada" tvg-logo="https://www.quebecor.com/documents/20143/67801/Logo+TVA.jpg/e6abf4e9-9e15-d9e1-dd76-56c575ddaf71?t=1607358198387",002. TVA
 https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 group-title="Canada" tvg-logo="https://tnawrestling.com/wp-content/uploads/2020/09/TNA-logo-June-2024-v2.png" ,003. TNA Wrestling
+#EXTINF:0 group-title="Canada" tvg-logo="https://tnawrestling.com/wp-content/uploads/2020/09/TNA-logo-June-2024-v2.png",003. TNA Wrestling
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ea4dadce395f0007086df2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7788-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=649aa9eb-97bb-42d6-85e0-d0595821c87a&serverSideAds=false&checkedby:iptvcat.com
