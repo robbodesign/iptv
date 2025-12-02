@@ -112,6 +112,9 @@ https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlis
 #KODIPROP:inputstream=inputstream.adaptive
 https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
 
+#EXTINF:-1 group-title="Portugal" tvg-id="PortoCanal.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Porto-Canal.png",014. Porto Canal
+https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
+
 #EXTM3U
 #EXTINF:0 group-title="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Le_Canal_Nouvelles_logo_2020.svg/1200px-Le_Canal_Nouvelles_logo_2020.svg.png" group-title="Undefined",001. LCN
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8?checkedby:iptvcat.com
