@@ -83,11 +83,11 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8?checkedb
 
 #EXTINF:-1 group-title="Portugal" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",001. CNN Portugal
 #KODIPROP:inputstream=inputstream.adaptive
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDI1IDI6Nzo0MiBQTSZoYXNoX3ZhbHVlPWZRelB6NjhJTzJBY2tUZkk3NkpDUWc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD05NGM0MDgxZC00MTlmLTQ1NDktOTI3OC1lNGE3MzJiYjE5MDQ=/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDI1IDI6NzoyNyBQTSZoYXNoX3ZhbHVlPWZ1dUF5NUlML21qUEpmWXBpT0JJQXc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1kZjMzMDQ5YS02ZjM1LTQ1MGEtYjM5Zi03NmRhZTA0ZDI4ZWY=/
 
 #EXTINF:-1 group-title="Portugal" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",002. Euronews PT
 #KODIPROP:inputstream=inputstream.adaptive
-https://euronews-live-por-pt.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6572/7392d4f0-7e24-4dbe-8482-f165e712eeed/5.m3u8
+https://38cf202f635c4e6d9a9ecd1dc805222a.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6572/aa7d84c5-ed1b-4706-aa89-11c525faf07d/5.m3u8
 
 #EXTINF:-1 group-title="Portugal" tvg-id="SIC.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png",003. SIC
 #KODIPROP:inputstream=inputstream.adaptive
