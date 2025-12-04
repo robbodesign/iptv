@@ -49,7 +49,7 @@ https://video01.soultv.com.br/internacional/internacional/playlist.m3u8?checkedb
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Brazil",032. Canal 25 Jundiaí
 https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
-#EXTINF:-1 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Logo_de_cmt_2004-2006.png" group-title="Brazil", 033. Canal Metropolitano de Noticias
+#EXTINF:-1 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Logo_de_cmt_2004-2006.png" group-title="Brazil",033. Canal Metropolitano de Noticias
 https://video01.logicahost.com.br/redebemtv/redebemtv/playlist.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Brazil",034. ConecTV Brasil
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
