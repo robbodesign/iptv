@@ -53,36 +53,32 @@ https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-logo="https://i.imgur.com/jaaGxnd.png" group-title="Brazil",026. TV Cidade de Petrópolis
 https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SysgBqZ.png" group-title="Brazil",027. TV Cidade Verde
-https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e67h04h.png" group-title="Brazil" http-referrer="https://www.tvcidadeverde.com.br",028. TV Cidade Verde Cuiaba
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e67h04h.png" group-title="Brazil" http-referrer="https://www.tvcidadeverde.com.br",027. TV Cidade Verde
 #EXTVLCOPT:http-referrer=https://www.tvcidadeverde.com.br
 https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
-#EXTINF:0 tvg-country=BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/29/Logotipo_da_Rede_Cidade_Verde.png" group-title="Brazil",029. TV Cidade Verde SBT
-https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/CpXjcyE.png" group-title="Brazil",030. TV Clube
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/CpXjcyE.png" group-title="Brazil",028. TV Clube
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.imgur.com/58EQ5qX.png" group-title="Brazil",031. TV do Povo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/58EQ5qX.png" group-title="Brazil",029. TV do Povo
 https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-encontro-das-aguas-br.png" group-title="Brazil",032. TV Encontro das Aguas
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-encontro-das-aguas-br.png" group-title="Brazil",030. TV Encontro das Aguas
 https://stmv7.samcast.com.br/sistemaencontrodasaguas/sistemaencontrodasaguas/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/1drg0E9.png" group-title="Brazil",033. TV Grao Pará
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/1drg0E9.png" group-title="Brazil",031. TV Grao Pará
 https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/lgCRX7q.png" group-title="Brazil",034. TV Mais Maricá
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/lgCRX7q.png" group-title="Brazil",032. TV Mais Maricá
 https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/9d9vBN7.png" group-title="Brazil",035. TV Marajoara
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/9d9vBN7.png" group-title="Brazil",033. TV Marajoara
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="BR" tvg-logo="https://i.imgur.com/3lxkJxb.png" group-title="Brazil",036. TV Paraná Turismo
+#EXTINF:-1 tvg-country="BR" tvg-logo="https://i.imgur.com/3lxkJxb.png" group-title="Brazil",034. TV Paraná Turismo
 http://200.189.113.201/hls/tve.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/9EqSKLc.png" group-title="Brazil",037. TV Rio Preto
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/9EqSKLc.png" group-title="Brazil",035. TV Rio Preto
 https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/hPh8cxK.png" group-title="Brazil",038. TV Sul de Minas
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/hPh8cxK.png" group-title="Brazil",036. TV Sul de Minas
 https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e1c1694671131c4b14e550af316a04bb.webp" group-title="Brazil",039. TV Viçosa
+#EXTINF:-1 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e1c1694671131c4b14e550af316a04bb.webp" group-title="Brazil",037. TV Viçosa
 http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/q5U0d9k.png" group-title="Brazil",040. TV Vila Real
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/q5U0d9k.png" group-title="Brazil",038. TV Vila Real
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="BR" tvg-id="TVBirigui.br@SD" group-title="Brazil",041. TV Birigui
+#EXTINF:-1 tvg-country="BR" tvg-id="TVBirigui.br@SD" group-title="Brazil",039. TV Birigui
 https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8
 
 #EXTINF:-1 group-title="Portugal" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",001. CNN Portugal
