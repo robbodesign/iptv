@@ -57,6 +57,7 @@ https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e67h04h.png" group-title="Brazil" http-referrer="https://www.tvcidadeverde.com.br",028. TV Cidade Verde Cuiaba
 #EXTVLCOPT:http-referrer=https://www.tvcidadeverde.com.br
+https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
 #EXTINF:0 tvg-country=BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/29/Logotipo_da_Rede_Cidade_Verde.png" group-title="Brazil",029. TV Cidade Verde SBT
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/CpXjcyE.png" group-title="Brazil",030. TV Clube
