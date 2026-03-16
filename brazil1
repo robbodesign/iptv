@@ -30,7 +30,7 @@ https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/KxYsq1d.png" group-title="Brazil",014. Santa Cecilia TV
 http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="BR" group-title="Brazil" tvg-logo="https://i.imgur.com/IkZfa4j.png",015. SBT Interior
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+http://184.178.82.59/live/sbt/sbt/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/b5xOCsC.png" group-title="Brazil",016. Sertão TV
 http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="BR" group-title="Brazil" tvg-logo="https://i.imgur.com/mHxQyB2.png",017. SIC TV
