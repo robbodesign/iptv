@@ -61,9 +61,7 @@ https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8?checkedby:
 https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e1c1694671131c4b14e550af316a04bb.webp" group-title="Brazil",030. TV Viçosa
 http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-country="BR" tvg-id="RecordTVInteriorSP.br@SD" group-title="Brazil",031. RecordTV Interior SP
-http://200.77.176.130:8000/udp/224.0.0.4:49152
-#EXTINF:-1 tvg-country="BR" tvg-id="TVCidadeVerdeCuiaba.br@SD" group-title="Brazil",032. TV Cidade Verde Cuiaba
+#EXTINF:-1 tvg-country="BR" tvg-id="TVCidadeVerdeCuiaba.br@SD" group-title="Brazil",031. TV Cidade Verde Cuiaba
 #EXTVLCOPT:http-referrer=https://www.tvcidadeverde.com.br
 https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
 
