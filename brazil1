@@ -64,6 +64,10 @@ http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-id="TVCidadeVerdeCuiaba.br@SD" group-title="Brazil",031. TV Cidade Verde Cuiaba
 #EXTVLCOPT:http-referrer=https://www.tvcidadeverde.com.br
 https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
+#EXTINF:-1 tvg-country="BR" tvg-id="TVGuara.br@SD" group-title="Brazil",032. TV Guará
+https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
+#EXTINF:-1 tvg-country="BR" tvg-id="TVitape.br@SD" group-title="Brazil",033. TVitapé
+https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
 
 #EXTINF:-1 group-title="Portugal" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",001. CNN Portugal
 #KODIPROP:inputstream=inputstream.adaptive
