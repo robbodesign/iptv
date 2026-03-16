@@ -4,6 +4,10 @@
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Brazil",002. Aliança TV Catarinense 
 https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/nCJMjyN.png" group-title="Brazil",003. Band
+https://aovivo.doozytv.com.br/31025556/10161894/chunks.m3u8
+
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/co7TCWC.png" group-title="Brazil",003. Canal 38
 https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/TQFWEIS.png" group-title="Brazil",004. Canal do Inter
