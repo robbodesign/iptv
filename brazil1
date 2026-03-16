@@ -14,6 +14,10 @@ https://video01.logicahost.com.br/redebemtv/redebemtv/playlist.m3u8
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/Md3xibE.png" group-title="Brazil",007. Demais TV
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Globo_logo_and_wordmark.svg" group-title="Brazil",008. Globo Sao Paulo
+http://200.222.51.42:1935/GloboSP/playlist.m3u8
+
 #EXTINF:-1 tvg-country="BR" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="Brazil",008. Nova Era TV
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="Brazil",009. Record Noticias
