@@ -72,6 +72,22 @@ https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.
 https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-id="TVSuldeMinas.br@SD" group-title="Brazil",035. TV Sul de Minas
 https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/N0TvAFz.png" group-title="Brazil",036. UNISUL TV
+https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/jcasAmw.png" group-title="Brazil",037. Rede CNT Salvador
+http://168.205.87.198:8555/live/1368/123456/150.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/ZFN1R4B.png" group-title="Brazil",038. Rede NGT
+https://isaocorp.cloudecast.com/ngt/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/Lxqb2cU.png" group-title="Brazil",039. Rede QDM
+https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil",040. Rede TV!
+https://cdn.jmvstream.com/w/AVJ-15235/playlist/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title=Brazil",041. Rede TV! ES
+https://streaming.cloudecast.com/hls/redetves/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil",042. Rede TV! Mais
+https://stmv7.samcast.com.br/playredetvmais/playredetvmais/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/Usw2e9d.png" group-title="Brazil",043. Rede UTV
+https://59f1cbe63db89.streamlock.net:1443/canalvirtual08/_definst_/canalvirtual08/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 group-title="Portugal" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",001. CNN Portugal
 #KODIPROP:inputstream=inputstream.adaptive
