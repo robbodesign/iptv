@@ -15,13 +15,13 @@ http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="Brazil",007. Record Noticias
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 #EXTINF:-1 tvg-country="BR" group-title="Brazil" tvg-logo="https://i.imgur.com/VcHy0fu.png",008. RecordTV Interior SP
-http://200.77.176.130:8000/udp/224.0.0.4:49152
+http://200.77.176.130:8000/udp/224.0.0.4:49152?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/ZFN1R4B.png" group-title="Brazil",009. Rede NGT
 https://isaocorp.cloudecast.com/ngt/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="BR" group-title="Brazil" tvg-logo="https://i.imgur.com/kh3LGAP.png",010. Rede SPTV
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
 #EXTINF:-1 tvg-country="BR" group-title="Brazil" tvg-logo="https://i.imgur.com/IkZfa4j.png",011. SBT Interior
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+http://200.77.176.130:8000/udp/224.0.0.4:49152?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/b5xOCsC.png" group-title="Brazil",012. Sertão TV
 http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="BR" group-title="Brazil" tvg-logo="https://i.imgur.com/mHxQyB2.png",013. SIC TV
@@ -61,13 +61,19 @@ https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8?checkedby:
 https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e1c1694671131c4b14e550af316a04bb.webp" group-title="Brazil",030. TV Viçosa
 http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-country="BR" tvg-id="TVCidadeVerdeCuiaba.br@SD" group-title="Brazil",031. TV Cidade Verde Cuiaba
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/CLff5eG.png" group-title="Brazil",031. TV Cidade Verde
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil",032. TV Cidade Oeste
+https://radios.dataprimer.com.br:5443/LiveApp/streams/psuqNyPC1AW1BcUZ1573443847601.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="BR" tvg-id="TVCidadeVerdeCuiaba.br@SD" group-title="Brazil",033. TV Cidade Verde Cuiaba
 #EXTVLCOPT:http-referrer=https://www.tvcidadeverde.com.br
 https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
-#EXTINF:-1 tvg-country="BR" tvg-id="TVitape.br@SD" group-title="Brazil",032. TVitapé
+#EXTINF:-1 tvg-country="BR" tvg-id="TVitape.br@SD" group-title="Brazil",034. TVitapé
 https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
-#EXTINF:-1 tvg-country="BR" tvg-id="TVSuldeMinas.br@SD" group-title="Brazil",033. TV Sul de Minas
+#EXTINF:-1 tvg-country="BR" tvg-id="TVSuldeMinas.br@SD" group-title="Brazil",035. TV Sul de Minas
 https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil",036. Band Minas 
+http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 group-title="Portugal" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",001. CNN Portugal
 #KODIPROP:inputstream=inputstream.adaptive
