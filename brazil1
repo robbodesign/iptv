@@ -56,15 +56,15 @@ https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8?checkedby:iptv
 #EXTINF:-1 tvg-country="BR" tvg-logo="https://i.imgur.com/3lxkJxb.png" group-title="Brazil",027. TV Paraná Turismo
 http://200.189.113.201/hls/tve.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/9EqSKLc.png" group-title="Brazil",028. TV Rio Preto
-https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8?checkedby:iptvcat.com
+https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/hPh8cxK.png" group-title="Brazil",029. TV Sul de Minas
-https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8?checkedby:iptvcat.com
+https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e1c1694671131c4b14e550af316a04bb.webp" group-title="Brazil",030. TV Viçosa
 http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/CLff5eG.png" group-title="Brazil",031. TV Cidade Verde
-https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8?checkedby:iptvcat.com
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Brazil",032. TV Cidade Oeste
-https://radios.dataprimer.com.br:5443/LiveApp/streams/psuqNyPC1AW1BcUZ1573443847601.m3u8?checkedby:iptvcat.com
+https://radios.dataprimer.com.br:5443/LiveApp/streams/psuqNyPC1AW1BcUZ1573443847601.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-id="TVCidadeVerdeCuiaba.br@SD" group-title="Brazil",033. TV Cidade Verde Cuiaba
 #EXTVLCOPT:http-referrer=https://www.tvcidadeverde.com.br
 https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
@@ -73,7 +73,7 @@ https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-id="TVSuldeMinas.br@SD" group-title="Brazil",035. TV Sul de Minas
 https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/KVdTi0M.png" group-title="Brazil",036. Rede Meio Norte
-http://streaming.jornalmn.com.br/live/tvmn.m3u8?checkedby:iptvcat.com
+http://streaming.jornalmn.com.br/live/tvmn.m3u8
 
 #EXTINF:-1 group-title="Portugal" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",001. CNN Portugal
 #KODIPROP:inputstream=inputstream.adaptive
