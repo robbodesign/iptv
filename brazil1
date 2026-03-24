@@ -62,17 +62,17 @@ http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
 https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
 #EXTINF:-1 tvg-country="BR" group-title="Brazil",031. TV Sul de Minas
 https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
-#EXTINF:-0, tvg-country="BR" tvg-logo="" group-title="Brazil",032. SBT Interior
+#EXTINF:-0, tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Sistema_Brasileiro_de_Televis%C3%A3o.svg/500px-Sistema_Brasileiro_de_Televis%C3%A3o.svg.png" group-title="Brazil",032. SBT Interior
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-0, tvg-country="BR" tvg-logo="" group-title="Brazil",033. TV Aratu
 https://cdn.live.br1.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
-#EXTINF:-0, tvg-country="BR" tvg-logo="" group-title="Brazil",034. SBT Cuiaba
+#EXTINF:-0, tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Sistema_Brasileiro_de_Televis%C3%A3o.svg/500px-Sistema_Brasileiro_de_Televis%C3%A3o.svg.png" group-title="Brazil",034. SBT Cuiaba
 https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8
-#EXTINF:-0, tvg-country="BR" tvg-logo="" group-title="Brazil",035. SBT Nova Mutum
+#EXTINF:-0, tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Sistema_Brasileiro_de_Televis%C3%A3o.svg/500px-Sistema_Brasileiro_de_Televis%C3%A3o.svg.png" group-title="Brazil",035. SBT Nova Mutum
 https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8
-#EXTINF:-0, tvg-country="BR" tvg-logo="" group-title="Brazil",036. SBT Rondonópolis
+#EXTINF:-0, tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Sistema_Brasileiro_de_Televis%C3%A3o.svg/500px-Sistema_Brasileiro_de_Televis%C3%A3o.svg.png" group-title="Brazil",036. SBT Rondonópolis
 https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8
-#EXTINF:-0, tvg-country="BR" tvg-logo="" group-title="Brazil",037. SBT Sinop
+#EXTINF:-0, tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Sistema_Brasileiro_de_Televis%C3%A3o.svg/500px-Sistema_Brasileiro_de_Televis%C3%A3o.svg.png" group-title="Brazil",037. SBT Sinop
 https://video09.logicahost.com.br/sbtsinop/sbtsinop/playlist.m3u8
 #EXTINF:-0, tvg-country="BR" tvg-logo="" group-title="Brazil",038. RedeTV! ES
 https://redetves.cloudecast.com/redetves/index.m3u8
