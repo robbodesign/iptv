@@ -72,6 +72,8 @@ https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8
 https://video09.logicahost.com.br/sbtsinop/sbtsinop/playlist.m3u8
 #EXTINF:-0, tvg-country="BR" tvg-logo="" group-title="Brazil",036. TV Pampa
 https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
+#EXTINF:-1, tvg-country="BR" tvg-logo="" group-title="Brazil",037. Globo SP HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/149
 
 #EXTINF:-1 group-title="Portugal" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",001. CNN Portugal
 #KODIPROP:inputstream=inputstream.adaptive
