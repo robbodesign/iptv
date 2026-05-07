@@ -73,7 +73,7 @@ https://video09.logicahost.com.br/sbtsinop/sbtsinop/playlist.m3u8
 #EXTINF:-0, tvg-country="BR" tvg-logo="" group-title="Brazil",036. TV Pampa
 https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
 #EXTINF:-0, tvg-country="BR" tvg-logo="" group-title="Brazil",037. TV Globo Internacional
-https://www.youtube.com/watch?v=AQhWY-FA2f4
+http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/121.m3u8
 
 #EXTINF:-1 group-title="Portugal" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",001. CNN Portugal
 #KODIPROP:inputstream=inputstream.adaptive
