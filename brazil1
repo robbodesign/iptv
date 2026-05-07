@@ -74,6 +74,10 @@ https://video09.logicahost.com.br/sbtsinop/sbtsinop/playlist.m3u8
 https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
 #EXTINF:-0, tvg-country="BR" tvg-logo="" group-title="Brazil",037. TV Globo Nordeste
 http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/121.m3u8
+#EXTINF:-0, tvg-country="BR" tvg-logo="" group-title="Brazil",038. TV Globo 1
+http://aovivo.futeboltv.com:8081/live/18/chunks.m3u8?LISTASGLAU
+#EXTINF:-0, tvg-country="BR" tvg-logo="" group-title="Brazil",038. TV Globo 2
+http://165.227.35.133/loadbalance/globo-sp/playlist.m3u8?pxAuth=Z5Uh6sh2qQMDyT5sRY4PNRuWJVnz8SXW
 
 #EXTINF:-1 group-title="Portugal" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",001. CNN Portugal
 #KODIPROP:inputstream=inputstream.adaptive
