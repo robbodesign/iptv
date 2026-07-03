@@ -160,11 +160,9 @@ https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-
 #EXTINF:0 group-title="Canada" tvg-logo="https://tnawrestling.com/wp-content/uploads/2020/09/TNA-logo-June-2024-v2.png",003. TNA Wrestling
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ea4dadce395f0007086df2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7788-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=649aa9eb-97bb-42d6-85e0-d0595821c87a&serverSideAds=false&checkedby:iptvcat.com
 
-#EXTINF:0 group-title="USA" tvg-country="US" tvg-logo="",001. FOX 25 Boston MA (WFXT)
-https://lnc-wfxt.tubi.video/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="USA",002. FOX 29 Philadelphia PA (WTXF-TV)
-https://livetv-fa.tubi.video/wtxf/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="USA",003. FOX 32 Chicago IL (WFLD)
-https://livetv-fa.tubi.video/wfld/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="USA",004. FOX 35 Orlando FL (WOFL)
-https://livetv-fa.tubi.video/wofl/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CV" tvg-logo="" group-title="Cabo Verde",TCSM (1080p)
+https://blueeyecaboverde.com/cam1/memfs/e8e6696b-2102-45b9-9b5c-f9c101266d90.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CV" tvg-logo="" group-title="Cabo Verde",TV Cidade (614p)
+https://stmv1.srvif.com/tvcidade/tvcidade/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CV" tvg-logo="" group-title="Cabo Verde",TIVER (576p)
+https://cdn.live.br1.jmvstream.com/w/AVJ-13550/playlist/playlist.m3u8?checkedby:iptvcat.com
