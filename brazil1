@@ -163,5 +163,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 #EXTINF:0 tvg-country="CV" tvg-logo="" group-title="Cabo Verde",TIVER (576p)
 https://cdn.live.br1.jmvstream.com/w/AVJ-13550/playlist/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="USA",Fox Sports
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="USA",001. Fox Sports
 https://nl1.streamlive.to/live/streamlive-sd/streamlive-sd/3732.m3u8 
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="USA",002. Fox Sports
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playlist.m3u8
