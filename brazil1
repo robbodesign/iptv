@@ -163,15 +163,5 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 #EXTINF:0 tvg-country="CV" tvg-logo="" group-title="Cabo Verde",TIVER (576p)
 https://cdn.live.br1.jmvstream.com/w/AVJ-13550/playlist/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Argentina",Telefe (720p)
-http://104.238.205.28:8989/278773_.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe (720p) [Geo-blocked]
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Argentina",Telefe (720p) [Geo-blocked]
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Argentina",Telefe Internacional (720p)
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613237a1c9e0db0007a91350/master.m3u8?advertisingId=PSID&appVersion=unknown&deviceDNT=TARGETOPT&deviceId=PSID&deviceLat=90&deviceLon=0&deviceMake=unknown&deviceModel=unknown&deviceType=unknown&deviceVersion=unknown&embedPartner=&profileFloor=&profileLimit=&us_privacy=1YNY&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Argentina",Telefe Internacional (720p) [Not 24/7]
-https://siloh-mcdn.plutotv.net/lilo/production/TelefePluto/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png" group-title="Argentina",TyC Sports (1080p) [Geo-blocked]
-https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="Telefe" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" tvg-chno="34.1" tvg-country="AR" group-title="Argentina",Telefe Ⓨ
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
